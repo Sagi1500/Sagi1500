@@ -13,7 +13,5 @@
 
 ### :mailbox: Connect with me:
 [![gmail](https://cdn.icon-icons.com/icons2/652/PNG/48/gmail_icon-icons.com_59877.png)][1]
-[![github](https://cdn.icon-icons.com/icons2/936/PNG/48/github-logo_icon-icons.com_73546.png)][2]
 
 [1]: mailto:Sagi1500@gmail.com
-[2]: https://github.com/Sagi1500
