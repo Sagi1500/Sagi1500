@@ -11,9 +11,9 @@
 [![Sagi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagi1500&layout=compact)](https://github.com/Sagi1500/github-readme-stats)
 
 
-### 📫 Connect with me:
+### :mailbox: Connect with me:
 [![gmail](https://cdn.icon-icons.com/icons2/652/PNG/48/gmail_icon-icons.com_59877.png)][1]
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
+[![github](https://cdn.icon-icons.com/icons2/936/PNG/48/github-logo_icon-icons.com_73546.png)][2]
 
 [1]: mailto:Sagi1500@gmail.com
 [2]: https://github.com/Sagi1500
