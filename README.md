@@ -1,5 +1,5 @@
 
-# About me:
+## 👨🏻‍💻 About me:
 
 - :blue_book: I’m currently learning BSc Computer Science 2nd year at Bar-Ilan University
 - :computer: I’m currently looking for a software developer job.
