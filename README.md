@@ -2,7 +2,7 @@
 ## 👨🏻‍💻 About me:
 - :blue_book: I’m currently learning BSc Computer Science 2nd year at Bar-Ilan University.
 - :computer: I’m currently looking for a software developer job.
-- :raising_hand_man: I’m looking to collaborate with other content creators.
+- :man_student: I love learning new technologies and deepening my knowledge of technologies I already know.
 <br/>
 
 ### :mailbox: Connect with me:
